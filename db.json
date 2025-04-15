@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Masaüstü",
+      "categoryId": "1",
+      "unitePrice": 55000
+    },
+    {
+      "id": "2",
+      "productName": "Mouse",
+      "categoryId": "1",
+      "unitePrice": 50.99
+    },
+    {
+      "id": "4",
+      "productName": "Coffee",
+      "categoryId": "2",
+      "unitePrice": 150
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Teknoloji"
+    },
+    {
+      "id": "2",
+      "categoryName": "Beverages"
+    }
+  ]
+}
